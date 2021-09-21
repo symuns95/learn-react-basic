@@ -1,0 +1,10 @@
+$myColor: #ff5f5f;
+$anoColor: #ffffff;
+.bg-scss {
+    width: 100%;
+    height: 200px;
+    // background-color: $myColor;
+    h1 {
+        color: $myColor;
+    }
+}
